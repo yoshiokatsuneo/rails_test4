@@ -1,4 +1,4 @@
 build:
-	environment:
-		ruby: 2.4
+  environment:
+    ruby: 2.4
 
